@@ -13,8 +13,8 @@
 **3.Third item a. second sub item**  
 **4.Fourth Item**    
 
-* **First Item**  
-* **Second Item**  
+* **First Item**
+* **Second Item**   
    * **first sub-item**   
      * **first sub-sub-item**     
    * **second sub-item**  
@@ -39,7 +39,7 @@
 **instructions regarding what information must be submitted is also provided at the end of**   
 **each lab.**    
 ## **License**
-**All code in this repository is copyright 2022 [MIT 6.S191 Introduction to Deep Learning]. All**   
+**All code in this repository is copyright 2022 (MIT 6.S191 Introduction to Deep Learning). All**   
 **Rights Reserved.** 
 
 **Licensed under the MIT License. You may not use this file except in compliance with the**    
