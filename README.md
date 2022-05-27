@@ -8,13 +8,13 @@
 σ<sup>2</sup>/
 2π
 , ω∈[−π,π]***  
-**1. First item a. first sub-item A) first sub-sub-item b. second sub-item**   
-**2. Second item**  
-**3. Third item a. second sub item**  
-**4. Fourth Item**    
+**1.First item a. first sub-item A) first sub-sub-item b. second sub-item**   
+**2.Second item**  
+**3.Third item a. second sub item**  
+**4.Fourth Item**    
 
 * **First Item**  
-* **Second Item**    
+* **Second Item**  
    * **first sub-item**   
      * **first sub-sub-item**     
    * **second sub-item**  
@@ -40,8 +40,11 @@
 **each lab.**    
 ## **License**
 **All code in this repository is copyright 2022 [MIT 6.S191 Introduction to Deep Learning]. All**   
-**Rights Reserved.**    
+**Rights Reserved.** 
+
 **Licensed under the MIT License. You may not use this file except in compliance with the**    
-**License. Use and/or modification of this code outside of 6.S191 must reference:**    
-**© MIT 6.S191: Introduction to Deep Learning**    
+**License. Use and/or modification of this code outside of 6.S191 must reference:**   
+
+**© MIT 6.S191: Introduction to Deep Learning** 
+
 **<http://introtodeeplearning.com>**
