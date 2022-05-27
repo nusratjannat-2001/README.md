@@ -1,13 +1,13 @@
 # **Assignment 0: Markdown**
 ## **You have to write markdown**
 ### **Some Math Equation**      
- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; First equation: ***Y*** =**X**<sub>β</sub>+ϵ<sub>y</sub>, ∀***X***  
- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Second equation: ***X***=***Z***γ+ϵ<sub>x</sub>
+ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;***First equation: ***Y*** =**X**<sub>β</sub>+ϵ<sub>y</sub>, ∀***X***  
+ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ***Second equation: ***X***=***Z***γ+ϵ<sub>x</sub>
    
- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; f<sub>1</sub>(ω)=
+ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;***f<sub>1</sub>(ω)=
 σ<sup>2</sup>/
 2π
-, ω∈[−π,π]
+, ω∈[−π,π]***
 1. First item a. first sub-item A) first sub-sub-item b. second sub-item
 2. Second item
 3. Third item a. second sub item
